@@ -1,0 +1,14 @@
+# Dataset
+Brain Tumor Data Set/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local environment files
+.venv/
+venv/
+.env
