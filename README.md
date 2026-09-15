@@ -2,6 +2,9 @@
 
 This project uses a TensorFlow/Keras notebook to classify brain MRI images into two classes: `Brain Tumor` and `Healthy`. It prepares an image dataset, trains a convolutional neural network, compares it with a simple sigmoid baseline, and evaluates both models with accuracy, classification reports, and confusion matrices.
 
+## Project Article
+The project article is available here: [Final Report - ML Short](Papers/Final_Report_ML_short.pdf).
+
 ## Main Features
 * Loads and inspects a two-class brain MRI image dataset.
 * Splits the source images into training, validation, and test sets using a 70/20/10 split.
